@@ -1,0 +1,2 @@
+C:/Users/byron/StudioProjects/tirocinio_template/android/app/.cxx/Debug/3q4u2v6b/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/byron/StudioProjects/tirocinio_template/android/app/.cxx/Debug/3q4u2v6b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
